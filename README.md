@@ -1,6 +1,6 @@
 # Usage
 - Open http://localhost:3000 in your browser to view the app.
-- input the url of doc, generate `embeddings` `pgvector` to online supabase
+- Input the `url` of `doc`, generate `embeddings` `pgvector` to online supabase
 - Access http://localhost:3000/docs ask question
 
 
