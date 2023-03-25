@@ -1,7 +1,7 @@
 # Usage
 - Open http://localhost:3000 in your browser to view the app.
 - Input the `url` of `doc`, generate `embeddings` `pgvector` to online supabase
-- Access http://localhost:3000/docs ask question
+- Access http://localhost:3000/docs for asking questions
 
 
 
