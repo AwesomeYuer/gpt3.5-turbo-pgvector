@@ -1,3 +1,10 @@
+# Usage
+- Open http://localhost:3000 in your browser to view the app.
+- input the url of doc, generate `embeddings` `pgvector` to online supabase
+- Access http://localhost:3000/docs ask question
+
+
+
 # Domain-specific ChatGTP (gpt-3.5-turbo) Starter App
 
 ⚠️ UPDATE: Now uses the new "ChatGPT API" (model gpt-3.5-turbo). More on the new API: <https://platform.openai.com/docs/guides/chat> 
