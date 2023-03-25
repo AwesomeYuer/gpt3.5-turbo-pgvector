@@ -3,6 +3,7 @@
 - Input the `url` of `doc`, generate `embeddings` `pgvector` to online supabase
 - Access http://localhost:3000/docs for asking questions
 
+https://m.weibo.cn/status/4879926925199207?sourceType=weixin&from=10D3395010&wm=9006_2001&featurecode=newtitle&s_channel=4&s_trans=1922705517_4879926925199207&jumpfrom=weibocom
 
 
 # Domain-specific ChatGTP (gpt-3.5-turbo) Starter App
